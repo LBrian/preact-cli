@@ -1,5 +1,11 @@
 # preact-cli
 
+## 3.0.6
+
+### Patch Changes
+
+- [`df48437`](https://github.com/preactjs/preact-cli/commit/df484371553a72f3fa5a72effe9577530d95f648) [#1499](https://github.com/preactjs/preact-cli/pull/1499) Thanks [@rschristian](https://github.com/rschristian)! - CLI now only conditionally outputs 200.html & preact_prerender_data.json
+
 ## 3.0.5
 
 ### Patch Changes
